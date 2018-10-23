@@ -5,7 +5,13 @@ import dividedWord
 import jieba
 import os
 
-massage = TrainDataReadAnn.readAnn(
-    "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_train2_20181022", "TrainDataAnn.db")
+# ?Step1: Get the ann for all traindata
+traindatapath = "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_train2_20181022"
+massage = TrainDataReadAnn.readAnn(traindatapath, "TrainDataAnn.db")
+print(massage)
 
+# ?Step2: Divided the word
+testpath = "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_test_a_20181022"
+trananndabase = "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/src/TrainDataAnn.db"
+massage = dividedWord.divided(testpath)
 print(massage)
