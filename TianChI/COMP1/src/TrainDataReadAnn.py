@@ -1,5 +1,7 @@
 import os
 import sqlite3
+import tqdm
+from tqdm import trange
 
 
 def lineProcess(line):
@@ -16,17 +18,17 @@ def lineProcess(line):
         return [classes, illness]
 
 
-def readAnn(path):
+def readAnn(path, dbname):
     #! input path : type string, whith contain .ann files
-    databasepath = "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/src/alldata.db"
+    databasepath = "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/src/" + dbname
     AllFiles = [x for x in os.listdir(path) if os.path.isfile(
         path+'/'+x) and os.path.splitext(path+'/'+x)[1] == '.ann']
     Database = sqlite3.connect(databasepath)
     Cursor = Database.cursor()
     Cursor.execute(
         'create table ANNALLWORD (id integer primary key autoincrement, ill text unique,class text)')
-    for x in AllFiles:
-        with open(path + '/' + x, 'r') as f:
+    for x in trange(0, len(AllFiles)):
+        with open(path + '/' + AllFiles[x], 'r') as f:
             for line in f.readlines():
                 wordlist = lineProcess(line)
                 classes = wordlist[0]
@@ -34,7 +36,8 @@ def readAnn(path):
                 order = "insert or ignore into ANNALLWORD (ill, class) values (" + \
                     '\"' + illness + '\"' + ',' + '\"' + classes + '\"' + ')'
                 Cursor.execute("%s" % (order))
+
     Cursor.close()
     Database.commit()
     Database.close()
-    return "Read Train.ann data successfully! All type of ill: "
+    return "Read Train.ann data successfully!"
