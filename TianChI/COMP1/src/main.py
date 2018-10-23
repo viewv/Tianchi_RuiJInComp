@@ -6,6 +6,6 @@ import jieba
 import os
 
 massage = TrainDataReadAnn.readAnn(
-    "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_train2_20181022", "TrainDataAnn")
+    "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_train2_20181022", "TrainDataAnn.db")
 
 print(massage)

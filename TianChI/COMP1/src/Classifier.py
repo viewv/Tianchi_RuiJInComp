@@ -3,5 +3,6 @@ import os
 import sqlite3
 
 
-def classfi(start=0, end=0, word="", tag=""):
-    pass
+def classfi(start, end, word, tag, knowdatabasepath):
+    konwdataconn = sqlite3.connect(knowdatabasepath)
+    konwcour = konwdataconn.cursor()

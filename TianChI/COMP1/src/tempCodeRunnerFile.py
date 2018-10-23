@@ -1,1 +1,0 @@
-/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/
