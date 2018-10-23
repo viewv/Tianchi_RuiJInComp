@@ -27,6 +27,7 @@ def readAnn(path, dbname):
     Cursor = Database.cursor()
     Cursor.execute(
         'create table ANNALLWORD (id integer primary key autoincrement, ill text unique,class text)')
+    print("Start Analysis ann document")
     for x in trange(0, len(AllFiles)):
         with open(path + '/' + AllFiles[x], 'r') as f:
             for line in f.readlines():
