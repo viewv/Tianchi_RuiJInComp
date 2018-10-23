@@ -1,0 +1,274 @@
+中国_ns 成人_n 2型_a 糖尿病_n HBA1C_x  _n c_c 控制_v 目标_n 的_u 专_a 家_n 共识_n
+目前_t ,_w 2型_n 糖尿病_n 及其_c 并发症_n 已经_d 成为_v 危害_v 公众_n
+健康_a 的_u 主要_a 疾病_n 之一_r ,_w 控制_v 血糖_n 是_v 延缓_v 糖尿病_n 进展_v 及_c
+其_r 并发症_n 发生_v 的_u 重要_a 措施_n 之一_r 。_w 虽然_c HBA1C_x  _n 。_w 是_v 评_v 价_n 血_n
+糖_n 控制_v 水平_n 的_u 公认_v 指标_n ,_w 但_c 应该_v 控制_v 的_u 理想_a 水平_n 即目_n
+标值_n 究竟_d 是_v 多少_r 还_d 存在_v 争议_v 。_w 糖尿病_n 控制_v 与_c 并发症_n 试_v
+验_v (_w DCCT_x ,_w 1993_m )_w 、_w 熊本_np (_w Kumamoto_x ,_w 1995_m )_w 、_w 英国_ns 前瞻性_n
+糖尿病_n 研究_v (_w UKPDS_x ,_w 1998_m )_w 等_u 高_a 质量_n 临床_v 研究_v 已经_d 证_p
+实_a ,_w 对_p 新_a 诊断_v 的_u 糖尿病_n 患者_n 或_c 病情_n 较_d 轻_a 的_u 患者_n 进行_v 严_a
+格_j 的_u 血糖_n 控制_v 会_v 延缓_v 糖尿病_n 微血管_n 病变_v 的_u 发生_v 、_w 发展_v ,_w
+其_r 后续_v 研究_v DCCT_x -_w EDIC_x (_w 2005_m )_w 、_w UK_n PDS_n 一80_m (_w 2008_m )_w 还_d
+证实_v 早期_f 有效_a 控制_v 血糖_n 对_p 大血管_n 也_d 有_v 保护_v 作用_n ¨引_v 。_w
+这些_r 研究_v 终点_n 的_u HBA1C_x  _n 。_w 控制_v 在_p 7_j ._w 5_j %_w 左右_m ,_w 那_c 么_v 年龄_n 较_d
+大_a 、_w 糖尿病_n 病程_n 较_d 长_a 、_w 部分_n 已_d 有_v 心血管_n 疾病_n (_w CVD_x )_w 或_c
+伴_v CVD_x 极_d 高危_a 因素_n 的_u 糖尿病_n 人群_n 进一步_d 降低_v 血糖_n ,_w 对_p
+CVD_x 的_u 影响_v 将_d 会_v 如何_r ?_w 糖尿病_n 患者_n 心血管_n 风险_n 干预_v
+研究_v (_w ACCORD_x )_w 、_w 退伍军人_n 糖尿病_n 研究_v (_w VADT_x )_w 和_c 糖_n
+尿病_n 与_p 心血管_n 疾病_n 行动_v 研究_v (_w ADVANCE_x )_w 等_u 对_p 该_r 类_n 人_n
+群_q 平均_v 5_m 年_q 左右_m 的_u 干预_v ,_w 结果_n 显示_v 强化_v 降_v 糖_n 治疗_v 使_v
+HBA1C_x  _n 。_w <_w 6_m ._w 5_g %_w ,_w 患者_n 死亡_v 风险_n 和_c 大血管_n 事件_n 发生_v 并_c 无_v
+进一步_d 减少_v ,_w ACCORD_x 甚至_d 表明_v 控制_v HBA1C_x  _n 。_w 水平_n 接近_v
+正常值_n (_w <_w 6_m ._w 4_m %_w )_w 会_v 增加_v 这_r 类_q 患者_n 死亡率_n 旧引_n 。_w 这些_r 与_p
+理论_n 或_c 预期_v 不_d 一致_a 结果_n 产生_v 的_u 原因_n 尚_d 不_d 确定_a ,_w 可能_v 与_p
+入组_v 人群_n 差异_n 、_w 低血糖_n 、_w 体重_n 增加_v 、_w 随访_v 时间_n 长短_n 及_c 评_v
+估_v 方法_n 等_u 诸多_m 因素_n 有关_v ,_w 但_c 过分_a 苛求_v 血糖_n 正常化_v 可能_v
+是_v 主要_a 原因_n 之一_r 。_w ACCORD_x 、_w VADT_x 数据_n 分析_v 提示_v 对_p
+病程_n 长_a 、_w 有_v 低血糖史_n 、_w 有_v CVD_x 或_c 合并_v CVD_x 极_d 高危_a 因素_n
+的_u 患者_n ,_w 盲目_a 地_u 进行_v 强化_v 达标_v 治疗_v ,_w 会_v 明显_a 增加_v 低血糖_n
+和_c 心血管_n 事件_n 发生_v 。_w 各_r 权威_a 组织_n 推荐_v 的_u 血糖_n 控制_v 目标_n
+HBA1C_x  _n 。_w 的_u 水平_n 也_d 不尽_d 相同_a ,_w 美国_ns 糖尿病_n 协会_n (_w ADA_x )_w 认_v
+为_p 一_m 般_q 情况_n 下_f 血糖_n 控制_v 目标值_n HBA1C_x  _n 。_w <_w 7_m %_w 归o_v ;_w 国际糖_n
+尿病_n 联盟_n (_w IDF_x )_w 、_w 美国_ns 内分泌_n 医师_n 协会_n /_w 美国_ns 内分_n 泌协_j
+会_n (_w AACE_x /_w ACE_x )_w 、_w 英国_ns 健康_a 与_c 临床_v 优化_v 研究所_n
+(_w NICE_x )_w 、_w 全球_n 有效_a 管理_v 糖尿病_n 合作_v 组织_n (_w GPEDM_x )_w 和_c
+加拿大_ns 糖尿病_n 协会_n (_w CDA_x )_w 则_c 建议_n 一_d 般_u 情况_n 时_g HBA1C_x  _j c_j <_w
+6_m ._w 5_j %_w [_w 10_m -_w 1_m 4_m ]_w ;_w 中华_nz 医学会_n 糖尿病_n 分会_n 推荐_v 的_u 一_m 般_u HBA1C_x  _n 。_w
+目标值_n 为_v <_w 6_m ._w 5_j %_w ¨引_v 。_w
+糖尿病_n 患者_n 血糖_n 控制_v 目标_n 应该_v 遵循_v 个体化_v 原_a 则_g ,_w
+即_d 对_p 血糖_n 控制_v 的_u 风险_n (_w risk_n )_w 与_c 获益_v (_w benefit_x )_w 、_w 成本_n
+(_w cost_x )_w 与_p 效益_n (_w effectiven_x ess_n )_w 和_c 可行性_n (_w feasibility_x )_w 方面_n
+进行_v 科学_a 评估_v ,_w 寻找_v 较为_d 合理_a 的_u 平衡_a ,_w 这_r 一_m 点_q 已_d 是_v 专_np 家_n
+共识_n 。_w 在_p 我国_n ,_w 多数_m 糖尿病_n 患者_n 居住_v 在_p 县_n 以下_f 及_c 农村_n
+地区_n ,_w 经济_n 、_w 受_v 教育_v 程度_n 、_w 医疗_n 保障_v 及_c 医疗_n 水平_n 等_u 诸多_m
+影响_v 血糖_n 控制_v 的_u 因素_n 差别_n 极大_a ,_w 地域_n 差别_n 较_d 强_a ,_w 因此_c 临_p
+床_n 医生_n 在_p 设定_v 糖尿病_n 血糖_n 控制_v 目标_n 时_g 除_p 考虑_v 病理_n 生理_n
+因素_n 即_c 病情_n 外_f ,_w 还_d 必须_d 考虑_v 社会_n 因素_n ,_w 社会_n 因素_n 的_u 重要_a
+性_n 在_p 某些_r 特定_a 患者_n 甚至_d 超过_v 病情_n 。_w 比如_v 自我_r 血糖_n 监测_v
+(_w SMBG_x )_w 在_p 我国_n 开展_v 不_d 普遍_a ,_w 因此_c 防范_v 严重_a 低血糖_n 的_u
+发生_v 必须_d 放在_v 首_m 位_q ,_w HBA1C_x  _n 。_w 目标_n 的_u 制定_v 应_v 统筹_v 考虑_v 安_v
+全性_n 、_w 可行性_n 和_c 科学性_n 。_w 我们_r 不_d 主张_v 笼统_a 推荐_v 成人_n 2_m
+型_k 糖尿病_n 的_u HBA1C_x  _n 。_w 控制_v 目标_n ,_w 而是_c 根据_p 病情_n 分层_v 和_c 社_n
+会_v 因素_n 的_u 差异_n 建议_v 相对_d 合理_a 的_u HBA1C_x  _n 。_w 值_n ,_w 力争_v 做到_v 安_np
+全_d 达标_v 。_w 从_p 病情_n 因素_n 考虑_v ,_w 大致_d 将_p 患者_n 分为_v 以下_f 6_m 类_q 。_w
+一_m 、_w 无_v 糖尿病_n 并发症_n 和_c 严重_a 伴发_v 疾病_n 的_u 非_h 老年_t (_w <_w
+65_m 岁_q )_w 患者_n
+1_m ._w 一_j 般_j 将_p HBA1C_x  _n 。_w 控制_v 于_p <_w 6_m ._w 5_j %_w ,_w 若_c 降_v 糖_n 治疗_v 无低_a
+血糖_n 或_c 体重_n 增加_v 等_u 不_d 良_g 反应者_n 可_v 使_v HBA1C_x  _n 。_w <_w 6_m %_w [_w 10_m -_w 15_m ]_w 。_w
+目前_t ,_w 新_a 诊断_v 糖尿病_n 患者_n 的_u 人数_n 逐年_d 增加_v ,_w 越_d 来_v 越_d 年轻_a
+化_v ,_w 尤其_d 是_v 30_m —_w 39_m 岁_q 比例_n 增加_v 引起_v 了_u 临床_v 医生_n 的_u 关_n
+注_v 。_w 这些_r 患者_n 绝大多数_id 除_p 糖尿病_n 外_f 并_d 无_v 并发症_n 和_c 其他_r
+疾病_n ,_w 考虑_v 对_p 患者_n 预期_v 寿命_n 和_c 生活_v 质量_n 的_u 影响_v ,_w 应该_v 严_a
+格_c 控制_v 血糖_n ,_w 目标值_n HBA1C_x  _n 。_w <_w 6_m ._w 5_j %_w ,_w 我们_r 也_d 同意_v 并_c 推荐_v
+IDF_x 的_u 建议_n ,_w 对于_p 年轻_a 、_w 病程_n 较_d 短_a 、_w 治疗_v 后_f 无_v 低_a 血糖_n 或_c
+体重_n 增加_v 等_u 不_d 良_g 反应_v 发生_v 的_u 患者_n ,_w 血糖_n 控制_v 目标值_n 应_v
+该_v 尽量_d 使_v HBA1C_x  _n c_g <_w 6_m %_w ¨⋯_n 。_w
+研究_v 表明_v ,_w 随着_p HBA1C_x  _n 。_w 水平_n 的_u 升高_v ,_w 发生_v CVD_x 的_u
+危险性_n 相对_d 增加_v ,_w 而且_c 糖尿病_n 病史_n 越_d 长_a 的_u 患者_n 治疗_v 后_f
+CVD_x 危险性_n 减低_v 越_d 小_a ¨⋯_n ;_w 流行病学_n 调查_v 结果_n 的_u meta_np
+分析_v 显示_v ,_w HBA1C_x  _n 。_w 每_r 增加_v 1_m %_w ,_w 2型_a 糖尿病_n 心血管_n 事件_n
+的_u 相对_a 危险性_n 为_v 1_m ._w 18_m ,_w 1型_a 糖尿病_n 为_v 1_m ._w 15_m 【_w 171_m ;_w
+ACCOR_x D亚组_n 分析_v 也_d 提示_v ,_w 既_c 往_p 无_v CVD_x 且_c HBA1C_x  _n 。_w <_w 8_m %_w
+的_u 患者_n 强化_v 治疗_v 后_f CVD_x 的_u 发生_v 及其_c 死亡率_n 明显_a 下降_v ,_w
+这_r 与_p 总体_n 患者_n (_w 平均_a 病程_n 10_m 年_q ,_w 35_m %_w 发生_v 过_u CVD_x )_w 的_u
+研究_v 结果_n 恰恰相反_c MJ_x 。_w 另一方面_c ,_w DCCT_nz ._w EDIC经_x 过后_t
+续_v 8_m 年_q 的_u 随_v 访_v 证实_v 1型_a 糖尿病_n 患者_n 早期_f 强化_v 治疗_v 对微_a
+血管_n 有_v 持久_a 的_u 保护_v 作用_n ,_w 并_c 延缓_v 动脉_n 粥样_a 硬化_v 的_u 发_v
+展_g ._w 4_m o_q ;_w UKPDS_x -_w 80_m 经过_n 后续_v 10_m 年_q 的_u 长期_a 随_v 访_v 发现_v 对_p 新_a
+诊断_v 的_u 2型_a 糖尿病_n 患者_n ,_w 强化_v 降_v 糖_n 治疗_v 不_d 仅_d 能_v 减少_v 微_v
+血管_n 并发症_n 的_u 发生_v ,_w 还_d 能_v 显著_a 降低_v 患者_n 的_u 心肌梗死_n 发_v
+生率_n 和_c 总_a 死亡率_n ∞J_v 。_w 所以_c ,_w 观察_v 到_v 严格_a 控制_v 血糖_n 对_p 大_a
+血管_n 的_u 保护_v 作用_n 可能_v 需要_v 较_d 长_a 的_u 时间_n 。_w 总之_c ,_w 不_d 管_v 从_p
+病理_n 生理_n 还_d 是_v 流行病学_n 的_u 角度_n ,_w 在_p 糖尿病_n 诊断_v 时_g 就_d 严_a
+格_c 控制_v 血糖_n ,_w 同时_c 控制_v 体重_n 、_w 血脂_n 、_w 血压_n ,_w 抗血_v 小_a 板治_n
+疗_g ,_w 全面_a 降低_v CVD_x 危险_a 因素_n 会_v 延缓_v 慢性_a 并发症_n 的_u 发_v
+生_v 、_w 发展_v i_v 1_m  _q 8_m |_w 。_w
+2_m ._w 口服_v 降_v 糖_n 药物_n 未_d 达标_v 加用_v 或_c 改用_v 胰岛素_n 的_u 患_v
+者_k ,_w 其_r 血糖_n 控制_v 目标值_n 可_v 适当_a 放宽_v 至_p HBA1C_x  _n 。_w <_w 7_m %_w ,_w 以_c 减_v
+少_a 低_v 血糖_n 和_c 体重_n 增加_v 这_r 两_m 大_a 不_d 良_g 反应_v olo_x ]_w 。_w Miller_x
+等_u ¨引_v 对_p 1_m  _q 055_m 例2型_nz 糖尿病_n 患者_n (_w 平均_a 年龄_n 61_m 岁_q ,_w 病_n
+程10_nz ._w 8_m 年_q )_w 的_u 低血糖_n 发生_v 情况_n 调查_v 显示_v ,_w 在_p 随访_v 的_u 7_m
+个_q 月_n 中_f 有_v 24_m ._w 5_j %_w 的_u 患者_n 至少_d 发生_v 过_u 一_m 次_q 低血糖_n (_w 有_v 低_a
+血糖_n 症状_n 并且_c 血糖_n <_w 3_m ._w 3_m  _q mmol_x /_w L_x )_w ,_w 其中_r 生活_v 方式_n 干预_v
+组_n (_w HBA1C_x  _n c_g <_w 6_m %_w )_w 占_v 11_m ._w 8_m %_w ,_w 口服_v 药物_n 治疗组_n (_w HbAlc_x <_w
+7_m %_w )_w 占_v 16_m ._w 2_j %_w ,_w 胰岛素_n 治疗组_n (_w HBA1C_x  _n c_g <_w 8_m ._w 1_m %_w )_w 占_v
+30_m ._w 5_j %_w ,_w 而且_c 随_v 访_v 过程_n 中_f 发生_v 的_u 5_m 例_q 严重_a 低血糖_n 事件_n
+(_w 0_j ._w 5_j %_w )_w 均_d 在_p 胰岛素_n 治疗组_n 。_w UKPDS_x 和_c ACCORD_x 均_d
+发现_v 胰岛素_n 使_v 体重_n 增加_v ,_w 若_c 体重_n 增加_v ,_w 可能_v 加重_v 胰岛素_n
+抵抗_v ,_w 增加_v CVD_x 风险_n 一_m J_q 。_w 调查_v 结果_n 和_c 临床_a 经验_n 提示_v 对_p
+应用_v 胰岛素_n 治疗_v 的_u 患者_n 适当_a 放宽_v 控制_v 目标_n ,_w 也_d 许_v 患者_n
+受益_v 更_d 多_a 。_w
+3_m ._w 目前_t 不_d 必_d 使用_v 降_v 糖_n 药物_n 的_u 患者_n ,_w 即_v 经过_p 一定_a 时_g
+间_f 的_u 降_v 糖_n 治疗_v 后_f 已经_d 停_v 用_v 降_v 糖_n 药物_n ,_w 仅_d 使用_v 生活_v 方式_n
+干预_v 血糖_n 控制_v 很_d 好_a ,_w 其_r 目标值_n 应该_v 更_d 严格_a (_w HBA1C_x  _n 。_w <_w
+6_m %_w )_w ¨0_m |_w 。_w 这些_r 患者_n 达到_v 目标值_n 的_u 过程_n 中_f 仍_d 存在_v 低血_v
+糖_n 风险_n ,_w 但_c 其_r 发生率_n 较_d 低_a ,_w 更_d 严格_a 的_u 血糖_n 控制_v 能_v 显著_a 减_v
+缓慢性_a 并发症_n 的_u 发生_v 、_w 发展_v ,_w 因此_c 获益_v /_w 风险_n 比_p 明显_a
+增加_v ‘_w 20_m ]_w 。_w
+二_m 、_w 已_d 有_v CVD_x 或_c CVD_x 极_d 高危_a 患者_n
+糖尿病病_n 史长_n ,_w 已_d 患_v CVD_x 或_c 处于_v CVD_x 极_d 高危_a ,_w 我_r
+们_k 推荐_v HBA1C_x  _n 。_w ≤_g 7_j ._w 5_j %_w ,_w 因为_p 他们_r 发生_v 或_c 再次_d 发生_v CVD_x
+风险_n 明显_a 增加_v ,_w 低血糖_n 风险_n 较_d 高_a ,_w 目前_t 还_d 没有_v 足够_v 的_u 证_n
+据_p 证明_v HBA1C_x  _n 。_w 控制_v 在_p 7_m %_w 以下_f 对_p 大血管_n 的_u 益处_n 。_w 大规_n
+模_g 随机_d 对照_v 试验_v ,_w 如_v ACCORD_x 、_w VADT_x 和_c ADVANCE_x 的_u
+结果_n 表明_v ,_w 强化_v 降_v 糖_n 5_m 年_q 内_f 并_d 未_d 发现_v 大血管_n 受益_v ,_w
+ACCORD_x 甚至_d 显示_v 总_d 死亡_v 风险_n 反而_d 有所_v 增加_v ∞_v ’_w 8_m  _q J_g 。_w 分_v
+析ACCORD_x 的_u 研究_v 资料_n 发现_v 对_p 病情_n 较_d 重_a 的_u 入组_v 患者_n
+(_w 平均_a 年龄_n 62_m 岁_q ,_w 病程_n 10_m 年_q ,_w 伴_v CVD_x 占_v 35_m %_w )_w 进行_v 强_a
+化降_v 糖_n ,_w 可能_v 是_v 主要_a 原因_n 之一_r [_w 6_m J_q 。_w 对_p 这些_r 年龄_n 大_a 、_w 病_n
+程长_n 、_w 并发症_n 和_c 伴发_v 疾病_n 多_a 的_u 患者_n 严格_a 控制_v 血糖_n ,_w 若_c 发_v
+生低_v 血糖_n 可能_v 诱发_v CVD_x ,_w 增加_v 患者_n 的_u 死亡_v 风险_n 。_w
+ACCORD_x 中_f 3_m 或_c 4_m 种_q 降_v 糖_n 药物_n 同时_d 应用_v 力求_v 快速_d 达到_v
+控制_v 目标_n (_w HBA1C_x  _n 。_w <_w 6_m ._w o_g %_w )_w ,_w 这_r 明显_a 增加_v 低血糖_n 的_u 发生_v
+率_k 和_c 总_a 死亡率_n 。_w ADVANCE与ACCORD_x 不_d 同_v ,_w 其_r 血糖_n
+控制力_n 求_v 平稳_a ,_w 低_v 血糖_n 发生率_n 较_d 低_a ,_w 效果_n 也_d 更_d 好_a ,_w 至少_d
+没有_d 增加_v CVD_x 事件_n 和_c 死亡率_n 。_w 另外_c ,_w 虽然_c DCCT_x ._w
+EDIC_x 和_c UKPDS_x ._w 80_m 提示_v ,_w 对_p 病情_n 较_d 轻_a 的_u 患者_n 进行_v 早期_f
+强化_v 降_v 糖_n 治疗_v 大血管_n 受益_v 较_d 多_a ,_w 但_c 即使_c 是_v 新_d 诊断_v 的_u 糖_n
+尿病_n 人群_n 观察_v 到_v 降_v 糖_n 对_p 大血管_n 的_u 保护_v 作用_n 也_d 需要_v 10_m
+年_q 以上_f H_n ,_w 5_m  _q J_g 。_w 对伴_v CVD_x 或_c CVD_x 极_d 高危_a 患者_n 血糖_n 控制_v
+目标_n 要_v 适当_a 放宽_v ,_w 治疗_v 过程_n 中_f 要_v 避免_v 血糖_n 下降_v 速度_n 过_d
+快_a 和_c 发生_v 低血糖_n ;_w 并且_c 该组_r 患者_n 多_a 同时_d 服用_v 其他_r 干预_v
+CVD_x 危险_a 因素_n 的_u 药物_n ,_w 应_v 慎重_a 选择_v 降_v 糖_n 药物_n ,_w 注意_v 药_n
+物_g 的_u 禁忌证_n 和_c 药物_n 间_f 的_u 相互作用_id 。_w
+三_m 、_w 老年_t 糖尿病_n 患者_n
+多数_m 指南_n 并_d 未_d 单独_d 设定_v 老年_t 糖尿病_n 患者_n (_w >_w 65_m
+岁_q )_w 的_u 血糖_n 控制_v 目标_n ,_w 这_r 是_v 因为_p 老年_t 患者_n 的_u 身体_n 健康_a
+状况_n 、_w 脏器_n 功能_n 、_w 认知_v 功能_n 以及_c 预期_v 寿命_n 差异_n 较_d 大_a ,_w 不_d
+能_v 一概而论_id ;_w 同时_c 缺乏_v 相关_v 的_u 循证_v 医学_n 证据_n 指导_v 制定_v
+个体化_v 治疗_v 目标_n 。_w 本_r 共识_n 专_a 家_n 认为_v 应该_v 就_p 此_r 特殊_a 人群_n
+制定_v 血糖_n 控制_v 目标_n ,_w 参考_v 国外_s 文献_n ,_w 建议_v 血糖_n 控制目_n
+标_v :_w 若_v 患者_n 脏器_n 功能_n 和_c 认知_v 能力_n 良好_a 、_w 预期_v 生存_v 期_g >_w 15_m
+年_q ,_w 应_v 严格_a 控制_v HBA1C_x  _n 。_w <_w 7_m %_w [_w 21_m 盈_q 1_m ;_w 若_c 患者_n 合并_v 其他_r 疾_g
+病_n 、_w 预期_v 生存期_n 5_m ~_w 15_m 年_q ,_w 可_v 适当_a 放宽_v HBA1C_x  _n 。_w <_w
+8_m %_w [_w 21_m ,_w 22_m ]_w ;_w 若_c 患者_n 既_c 往_p 有_v 严重_a 低_v 血糖史_n 、_w 合并_v 其他_r 严重_a
+疾病_n 、_w 预期_v 生存_v 期_g <_w 5_m 年_q ,_w 美国_ns 退伍军人_n 事务局_n 推荐_v 控_v
+制_a 目标_n 可_v 放宽_v 到_v HBA1C_x  _n 。_w <_w 9_m %__q 2_m l_q '_w 23_m ’_w 川_j 。_w HbAlc较_x 高者_n 应_v
+避免_v 发生_v 高血糖_n 症状_n 、_w 急性_a 代谢_v 紊乱_a 和_c 感染_v 。_w
+对_p 老年_t 尤其_d 高龄_n (_w >_w 80_m 岁_q )_w 患者_n 的_u 血糖_n 控制_v 目标_n
+总体_n 放宽_v 主要_a 原因_n 是_v ,_w 老年人_n 的_u 神经_n 反应_v 比较_d 迟钝_a 或_c
+存在_v 神经_n 病变_v ,_w 容易_a 发生_v 无_v 感知_v 低_a 血糖_n ,_w 患者_n 常常_d 在_p 没_d
+有_v 任何_r 征兆_n 的_u 情况_n 下_f 发生_v 低血糖_n 昏迷_v ,_w 这种_r 情况_n 如果_c
+发生_v 在_p 夜间_t 非常_d 危险_a ,_w 往往_d 因_p 错过_v 抢救_v 时机_n 导致_v 严重_a
+脑_n 损伤_v 甚至_d 死亡_v ;_w 而且_c 老年人_n 多_a 伴_v 有_v 心脑血管_n 动脉粥_n
+样_g 硬化_v ,_w 一旦_d 发生_v 低血糖_n 可_v 诱发_v 心肌梗死_n 及_c 脑卒_n 中_f 。_w
+即使_c 是_v 轻微_a 的_u 低血糖_n 也_d 可能_v 引起_v 患者_n 摔_v 伤_n 、_w 骨折_v 等_u 机_g
+体_n 损伤_v ,_w 导致_v 患者_n 入院_v ,_w 增加_v 心理_n 和_c 经济_n 负担_n 。_w 老年_t 患_v
+者_k 的_u 预期_v 寿命_n 也_d 很_d 重要_a ,_w 严格_a 的_u 强化_v 治疗_v 会_v 使_v 生活质_n
+量_v 下降_v 、_w 心理_n 压力_n 明显_a 增大_v ,_w 如果_c 预期_v 生存_v 期_g <_w 5_m 年_q ,_w 则_c
+获益_v /_w 风险_n 比_v 显著_a 下降_v 旧_a 1_m ’_w 22_m o_q 。_w 因此_c ,_w 对_p 老年_t 糖尿病_n 患_v
+者_k 的_u 血糖_n 控制_v 目标_n 放宽_v 程度_n 应该_v 因人而异_id ,_w 治疗_v 措施_n
+应该_v 简单易行_id ,_w 控制_v 高血糖_n 药物_n 选择_v 还_d 需_v 充分_a 考虑_v 患_v
+者_r 脏器_n 功能_n 的_u 减退_v 程度_n 。_w
+四_m 、_w 低血糖_n 高危险_a 人群_n
+糖尿病_n 病程_n >_w 15_m 年_q 、_w 有_v 无_d 感知_v 低血糖_n 病史_n 、_w 有_v 严重_a
+伴发病_n 如_v 肝_n 肾_n 功能_n 不_d 全_a 或_c 全天_n 血糖_n 波动_v 较_d 大_a 并_c 反复_d 出_v
+现低_a 血糖_n 症状_n 的_u 患者_n ,_w 很_d 难_a 设定_v 其_r HBA1C_x  _n 。_w 的_u 靶_a 目标_n ,_w 最_d
+重要_a 的_u 是_v 避免_v 低_a 血糖_n 的_u 发生_v ,_w 也_d 许_v HBA1C_x  _n 。_w 控制_v 在_p 7_m %_w ~_w
+9_m %_w 是_v 可以_v 接受_v 的_u ‘_w 11_m ,_w 13_m ,_w 23_m ._w 25_m j_q 。_w 因为_c Stratton_x 等_u ‘_w 253_m 对_p 4_m
+585_m 例2型_nz 糖尿病_n 患者_n 10_m 年_q 的_u 随_v 访_v 表明_v ,_w HBA1C_x  _n c_g <_w 7_m %_w
+患者_n 慢性_a 并发症_n 的_u 发生_v 和_c 死亡_v 风险_n 最低_a ;_w HBA1C_x  _n 。_w 控制_v
+在_p 7_m %_w 一_m 9_m %_w ,_w 上述_a 风险_n 虽然_c 增加_v ,_w 但是_c 相对_d 增长_v 缓慢_a ;_w
+一旦_d HBA1C_x  _n 。_w >_w 9_m %_w ,_w 风险_n 明显_a 增加_v 甚至_d 翻倍_v 。_w
+所有_a 大样本_n 随机_d 对照_v 研究_v 都_d 证实_v 强化_v 治疗_v 使_v 低血_n
+糖_n 的_u 发生率_n 明显_a 增加_v ,_w 虽然_c 严重_a 低血糖_n 事件_n 发生率_n 少_a ,_w
+但_c 对_p UKPDS_x 、_w 前瞻性_n 吡格列酮_np 对_p 大血管_n 事件_n 影响_v 的_u 临_v
+床_n 研究_v (_w PROactive_x )_w 、_w ADVANCE_x 、_w VADT_x 和_c ACCORD五_x
+大_d 临床_v 研究_v 的_u meta_np 分析_v 显示_v 强化_v 治疗组_n 的_u 严重_a 低血_v
+糖发生率_n 为_v 2_m ._w 3_m %_w ,_w 常规_n 治疗组_n 为_v 1_m ._w 2_j %_w ,_w 可见_c ,_w 强化_v 治_v
+疗_g 增加_v 低血糖_n 发生率_n 是_v 不_d 可_v 避免_v 的_u 【_w 26_m 。_w 。_w 但是_c ,_w 如_v 前面_f
+所_u 述_g ,_w 低_v 血糖_n 除_v 了_u 直接_a 造成_v 相应_v 的_u 严重_a 临床_v 后果_n 外_f ,_w 频_g
+繁_g 或_c 严重_a 的_u 低血糖_n 影响_v 糖尿病_n 患者_n 的_u 治疗_v 。_w 调查_v 表明_v
+患者_n 一旦_d 出现_v 频繁_a 或_c 严重_a 的_u 低血糖_n 会_v 明显_a 降低_v 患者_n 对_p
+血糖_n 控制_v 达标_v 的_u 积极性_n 拉_v ’_w 7_m J_q 。_w 因此_c 低_v 血糖_n 高危_a 人群_n 的_u
+个体化_v 血糖_n 控制_v 格外_d 重要_a 。_w
+五_m 、_w 妊娠期_n 高血糖_n
+妊娠期_t 高血糖_n 包括_v 糖尿病_n 合并_v 妊娠_v (_w 妊娠_v 前_f 糖尿_n
+病_n )_w 、_w 妊娠期_n 发现_v 的_u 糖尿病_n (_w overt_x  _w diabetes_np ,_w 指_v 妊娠期_t
+HBA1C_x  _n 。_w 或_c 血糖_n 达到_v 糖尿病_n 诊断_v 标准_n )_w 和_c 妊娠_v 糖尿病_n
+(_w GDM_x )_w 三_m 种_q 情况_n ¨⋯_v 。_w
+对于_p 计划_n 妊娠_v 的_u 糖尿病_n 患者_n ,_w 应_v 严格_a 控制_v 血糖目_n
+标值_n HBA1C_x  _n 。_w <_w 6_m ._w 5_j %_w ,_w 如_v 应用_v 胰岛素_n 可_v 适当_a 放宽_v HbAlc_x <_w
+7_m %_w 以_p 防止_v 低血糖_n 发生_v L_v 29_m |_w 。_w 不_d 建议_v HBA1C_x  _n c_g >_w 8_m %_w 的_u 患者_n
+妊娠_v ,_w 这些_r 患者_n 应_v 首先_d 应_v 控制_v 血糖_n ,_w 因为_c 高血糖_n 会_v 明显_a
+增加_v 早期_t 流产_v 和_c 胎儿_n 畸形_n 风险_n 口_n 引_v 。_w
+妊娠_v 前_f 糖尿病_n 或_c 妊娠期_n 发现_v 的_u 糖尿病_n 在_p 不_d 发生_v 低_a
+血糖_n 前提_n 下_f 孕期_t 血糖_n 控制_v ,_w 理想_a 目标值_n 为_v HBA1C_x  _n 。_w <_w 6_m %_w ;_w
+毛细血管_n 血糖餐_n 前_f 、_w 睡_v 前_f 及_c 夜间_t 不_d 高于_v 5_m ._w 4_m  _q mmol_x /_w L_g ,_w
+餐_g 后_f 峰值_n 不_d 高于_v 7_m ._w 1_m  _q mmol_x /_w LL9瑚j_x 。_w GDM毛_x 细血管_n 血_n
+糖餐_n 前_f <_w 5_m ._w 3_m  _q mmol_x /_w L_g ,_w 餐_g 后_f 1_m  _q h_g <_w 7_m ._w 8_m  _q mmol_x /_w L_g 或_c 2_m  _q h_g <_w
+6_m ._w 7_m  _q mmol_x /_w L_g [_w 9_m ]_w 。_w 临床_v 研究_v 显示_v ,_w 相对_v 于_p 餐_g 前_f 血糖_n 而_c
+言_g ,_w 餐后_q 血糖_n 的_u 良好_a 控制_v 可_v 更_d 好_a 地_u 减少_v 并发症_n ,_w 尤其_d 是_v
+巨大儿_n 出生_v ;_w 相对_v 于_p 餐_g 后_f 2_m  _q h_n 血糖_n ,_w 控制_v 好_a 餐_g 后_f 1_m  _q h血_v
+糖_n ,_w 产科_n 结局_n 更_d 好_a 旧_a J_n 。_w
+六_m 、_w 其他_r 情况_n
+与_c 2型_a 糖尿病_n 并存_v 的_u 其他_r 疾病_n 比较_d 多_a ,_w 这些_r 情况_n
+下_f 血糖_n 控制_v 目标_n 目前_t 缺乏_v 相应_v 的_u 循证_v 医学_n 证据_n 和_c 共_d
+识_v 。_w 比如_v :_w 恶性肿瘤_id 、_w 老年痴呆症_n 、_w 癫痫_n 等_u 。_w 若_v 患者_n 预_c
+期_q 寿命_n <_w 5_m 年_q 者_k ,_w HBA1C_x  _n 。_w 不_d 应_v 超过_v 9_m %_w ;_w 预期_v 寿命_n 更_d 长_a
+者_k ,_w HBA1C_x  _n 。_w 可_v 控制_v 在_p 7_m %_w 左右_m 。_w 执行_v 治疗_v 方案_n 较_d 困难_a 的_u
+情况_n ,_w 如_v 精神_n 或_c 智力_n 障碍者_n 、_w 视力_n 障碍者_n 、_w 老年_t 、_w 高龄_n 及_c
+独居者_n 等_u ,_w 其_r 血糖_n 的_u 控制_v 目标_n 应_v 适当_a 放宽_v ,_w HBA1C_x  _n 。_w 不_d 应_v
+超过_v 9_m %_w ,_w 主要_a 防止_v 血糖_n 过_d 高_a 引起_v 的_u 症状_n 、_w 急性_a 代谢_v 紊_np
+乱_a 、_w 感染_v 和_c 低_a 血糖_n 的_u 发生_v 。_w
+社会_n 因素_n 是_v 决定_v 血糖_n 控制_v 目标_n 的_u 另_r 一个_m 重要_a 且_c 必_d
+须_d 考虑_v 的_u 问题_n ,_w 对_p 美国_ns 不_d 同_p 种族_n 的_u 糖尿病_n 患者_n 在_p 降_v 糖_n
+治疗_v 过程_n 中_f 的_u 依从性_n 和_c 血糖_n 控制_v 情况_n 的_u 调查_v 表明_v ,_w 那_r
+些_q 医疗_n 保障_v 差_a 的_u 患者_n ,_w 治疗_v 的_u 依从性_n 、_w 血糖_n 的_u 自我_r 管理_v
+能力_n 和_c 血糖_n 的_u 控制_v 水平_n 明显_a 下降_v Ⅲ_v J_n 。_w 但是_c ,_w 医疗_n 保障_v
+差_a 的_u 人群_n 总_a 花销_n 并_d 不_d 比_p 平均_a 水平_n 低_a ,_w 这_r 主要_d 是_v 因为_p 忽_d
+视_g 糖尿病_n 治疗_v 导致_v 血糖_n 过_d 低_a 或_c 过_d 高_a ,_w 引起_v 相关_v 疾病_n 发_v
+生_a 而_c 入_v 院_n 诊治_v 旧_a 1_m i_q 。_w 在_p 我国_n ,_w 很多_m 糖尿病_n 患者_n 居住_v 在_p 县_n
+以下_f 及_c 农村_n 地区_n ,_w 家_n 庭_g 收入_n 和_c 受_v 教育_v 程度_n 较_d 低_a 、_w 医疗_n 保_v
+障_g 及_c 医疗_n 条件_n 差_a ,_w 他们_r 对_p 糖尿病_n 相关_v 知识_n 知_v 之_r 甚_g 少_a ,_w 对_p
+糖尿病_n 的_u 危险性_n 认识_v 不_d 够_v 、_w 依从性_n 差_a 、_w 几乎_d 不_d 能_v 进行_v 血_n
+糖_n 自我_r 监测_v (_w SMBG_x )_w ,_w 这_r 类_q 患者_n 的_u 血糖_n 控制_v 目标_n 应_v 依_p
+据_p 患者_n 的_u 病情_n 综合_v 考虑_v ,_w 适当_a 放宽_v ,_w 尽量_d 避免_v 因_p 严重_a 的_u
+低_a 血糖_n 或_c 高血糖_n 发生_v ,_w 加重_v 患者_n 病情_n 和_c 经济_n 负担_n 。_w
+对_p 中国_ns 成人_n 2型_a 糖尿病_n HBA1C_x  _n 。_w 目标值_n 的_u 适用_a 人群_n
+以_p HBA1C_x  _a 水平_n 分层_v ,_w 总结_v 于_p 表_n 1_m 。_w
+表_n 1_m 中国_ns 成人_n 2型_a 糖尿病_n HBA1C_x  _n 。_w 目标值_n 建议_v
+HBA1C_x  _n c_a 水平_n  _d 适用_v 人群_n
+<_w 6_m ._w 0_m %_w
+<_w 6_m ._w 5_m %_w
+<_w 7_m ._w O_j %_w
+≤_j 7_j ._w 5_j %_w
+<_w 8_m ._w 0_m %_w
+<_w 9_m ._w 0_j %_w
+新_a 诊断_v 、_w 年轻_a 、_w 无_v 并发症_n 及_c 伴发_v 疾病_n ,_w 降_v 糖_n 治疗_v 无低_a
+血糖_n 和_c 体重_n 增加_v 等_u 不_d 良反_a 也_u ;_w 勿_d 需_v 降_v 糖_n 药物_n 于_p 预者_n ;_w
+糖尿病_n 合并_v 妊娠_v ;_w 妊娠期_n 发现_v 的_u 糖尿病_n
+<_w 65_m 岁_q 无_v 糖尿病_n 并发症_n 和_c 严重_a 伴发_v 疾病_n ;_w 糖尿病_n 计_v
+划_v 妊娠_v
+<_w 65_m 岁_q 口服_v 降_v 糖_n 药物_n 不_d 能_v 达标_v 合用_v 或_c 改用_v 胰岛素_n 治_v
+疗_g ;_w ≥_v 65_m 岁_q ,_w 尢低_v 血糖_n 风险_n ,_w 脏器_n 功能_n 良好_a ,_w 预期_v 生_v
+存期_d >_w 15_m 年_q ;_w 胰岛素_n 治疗_v 的_u 糖尿病_n 计划_n 妊娠_v
+已_d 有_v 心血管_n 疾病_n (_w CVD_x )_w 或_c CVD_x 极_d 高危_a
+/_w >_w 65_m 岁_q ,_w 预期_v 生存期_n 5_m —_w 15_m 年_q
+≥_v 65_m 岁_q 或_c 恶性肿瘤_id 预期_v 生存_v 期_g <_w 5_m 年_q ;_w 低血糖_n 高危_a 人_n
+群_q ;_w 执行_v 治疗_v 方案_n 困难者_n 如_v 精神_n 或_c 智力_n 或_c 视力_n 障碍_n
+等_u ;_w 医疗_n 等_u 条件_n 太_d 差_a
+注_v :_w 达标_v 的_u 前提_n 是_v 安全_a 町行_v ;_w HBA1C_x  _n c_g 较_d 高_a 者_k 应_v 防止_v 高血糖_n 症状_n 、_w 急性_a
+代谢_v 紊乱_a 和_c 感染_v
+总之_c ,_w 糖尿病_n 患者_n 的_u 血糖_n 控制_v 目标_n 要_v 因人而异_id ,_w 像_p
+GPEDM_x 倡导_v 的_u “_w 量体裁衣_id ”_w (_w tailoring_x )_w 式_k 管理_v 血糖_n ,_w 有_v
+些_q 患者_n 可_v 适当_a 放宽_v ,_w 不_d 要_v 因为_p 过分_a 强调_v HBA1C_x  _n 。_w 达标_v 或_c
+正常化_v 增加_v 患者_n 低_v 血糖_n 和_c 死亡_v 风险_n ¨_v 3_m f_q 。_w HBA1C_x  _n 。_w 受_v 检测_v
+方法_n 和_c 血红_n 蛋白_n 、_w 红细胞_n 转换_v 、_w 年龄_n 等_u 诸多_m 因素_n 的_u 影_g
+响_a ,_w 也_d 不_d 能_v 反映_v 瞬时_t 血糖_n 水平_n 及_c 血糖_n 波动_v ,_w 常规_n 开展_v
+HBA1C_x  _n 。_w 测定_v 还有_v 困难_a ,_w 且_c 目前_t 国内_s 尚_d 缺乏_v 检测_v 方法_n 的_u
+标准化_v ,_w 因此_c 必须_d 充分_a 结合_v 血糖_n 监测_v 才_c 能_v 真正_d 了_u 解糖_v
+代谢_v 的_u 控制_v 情况_n 懈J_a 。_w HBA1C_x  _n 。_w 的_u 监测_v 可_v 依据_p 病情_n 每_r 3_m ~_w
+6_m 个_q 月_n 进行_v 一_m 次_q 。_w 应该_v 依据_p 病情_n 、_w 治疗_v 方案_n 的_u 不同_a 结_v
+合_v 患者_n 的_u 经济_n 、_w 文化_n 、_w 对_p 治疗_v 的_u 依从性_n 、_w 医疗_n 条件_n 等_u 多_a
+种_q 因素_n ,_w 制定_v 个体化_v 的_u 降_v 糖_n 策略_n ,_w 达到_v 安全_a 平稳_a 降_v 糖_n 。_w
+必须_d 强调_v 血糖_n 以外_f 的_u CVD_x 风险_n 因素_n 如_v 血压_n 、_w 血脂_n 、_w 体_g
+重_a 以及_c 促凝_v 状态_n 等_u 控制_v ,_w 戒烟_v 及_c 生活_v 方式_n 干预_v 对_p 防止_v 、_w
+延缓_v 或_c 减少_v 糖尿病_n 并发症_n 的_u 发生_v 同样_a 十分_m 重要_a 。_w
+参加_v “_w 中国_ns 成人_n 2型_a 糖尿病_n HBA1C_x  _n c_c 控制_v 目标_n 的_u 专_a
+家_q 共识_n ”_w 讨论_v 的_u 专_np 家_n 名单_n :_w 童南伟_np 、_w 宁光_np 、_w 赵_np 家_n 军_n 、_w 母义_n
+明_g 、_w 李光伟_np 、_w 许樟荣_np 、_w 高妍_np 、_w 潘长玉_np 、_w 李秀钧_np 、_w 李焱_np 、_w 李强_np 、_w
+单忠艳_np 、_w 高鑫_np 、_w 陈璐璐_np 、_w 郭晓蕙_np 、_w 洪天配_np 、_w 李彩萍_np 、_w 刘志_np
+民_g 、_w 刘超_np 、_w 施秉银_np 、_w 严励_np 、_w 王佑民_np 、_w 陈兵_np 、_w 王坚_np 、_w 汤旭磊_np 、_w 邓_np
+华聪_nz 、_w 苏青_np 、_w 马中书_np 、_w 崔巍_np 、_w 徐勇_np 、_w 翁孝刚_np 、_w 刘艳_np 、_w 杜建_np
+玲_n 等_u 。_w
