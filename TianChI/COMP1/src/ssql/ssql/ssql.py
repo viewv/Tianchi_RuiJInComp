@@ -13,7 +13,6 @@ class database(object):
     def __init__(self, path, datasename):
         self.path = path
         self.datasename = datasename
-        self.whetherclose = 0
         self.tempdata = data(None, None)
 
     def __creatdatabase__(self):

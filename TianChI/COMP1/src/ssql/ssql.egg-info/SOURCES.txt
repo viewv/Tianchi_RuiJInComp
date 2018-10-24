@@ -1,0 +1,8 @@
+README.rst
+setup.py
+ssql/ssql.py
+ssql.egg-info/PKG-INFO
+ssql.egg-info/SOURCES.txt
+ssql.egg-info/dependency_links.txt
+ssql.egg-info/top_level.txt
+ssql.egg-info/zip-safe
