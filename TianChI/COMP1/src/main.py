@@ -22,5 +22,5 @@ import os
 
 # ? Step3:Give ans
 massage = dataFormter.dataopener(
-    "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/src/ans.db", "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ruijin_round1_submit_20181022", "ANS")
+    "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/src/ans.db", "/home/viewv/Tianchi_RuiJInComp/TianChI/COMP1/ans", "ANS")
 print(massage)

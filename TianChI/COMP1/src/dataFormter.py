@@ -7,7 +7,7 @@ from tqdm import trange
 def datewriter(tag, type, start, end, word, path, filename):
     with open(path + '/' + filename + ".ann", 'a') as f:
         newline = [tag, type, str(start), str(end), word]
-        newline = '\t'.join(newline) + '\n'
+        newline = tag+'\t'+type+' '+str(start)+' '+str(end)+'\t'+word+'\n'
         f.write(newline)
 
 
